@@ -1,3 +1,51 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://southwestkoala.co.uk"
+title = "Southwest Koala"
+theme = "coder"
+languagecode = "en-gb"
+defaultcontentlanguage = "en-gb"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = ""
+
+[params]
+    author = "Matthew Gibbons" # Author's name.
+    info = "Quality Improvement Facilitator"
+    description = "Matthew Gibbons, Quality Improvement Facilitator, Southwest Koala"
+    keywords = "quality,improvement,facilitator"
+    avatarurl = "images/avatar.jpg"
+
+    footercontent = "koalas are cooler than kangeroos"
+
+    hideCredits = false
+    hideCopyright = false
+
+    rtl = false
+
+    custom_css = []
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/accuser/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/accuser/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
