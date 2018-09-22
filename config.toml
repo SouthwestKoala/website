@@ -11,7 +11,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = ""
+disqusShortname = "southwestkoala"
 
 [params]
     author = "Matthew Gibbons"
