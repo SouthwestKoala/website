@@ -39,9 +39,3 @@ disqusShortname = ""
     icon = "fab fa-linkedin fa-2x"
     weight = 1
     url = "https://linkedin.com/in/matthewgibbons/"
-
-# Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
