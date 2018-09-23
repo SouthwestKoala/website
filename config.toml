@@ -22,9 +22,6 @@ disqusShortname = "southwestkoala"
 
     footercontent = "koalas are cooler than kangeroos"
 
-    hideCredits = false
-    hideCopyright = false
-
     rtl = false
 
     custom_css = []
@@ -32,10 +29,10 @@ disqusShortname = "southwestkoala"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
-    weight = 3
+    weight = 1
     url = "https://twitter.com/accuser/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
-    weight = 1
+    weight = 2
     url = "https://linkedin.com/in/matthewgibbons/"
