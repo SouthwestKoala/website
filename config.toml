@@ -12,6 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "southwestkoala"
+googleAnalytics = "UA-35915992-1"
 
 [params]
     author = "Matthew Gibbons"
