@@ -16,9 +16,9 @@ googleAnalytics = "UA-35915992-1"
 
 [params]
     author = "Matthew Gibbons"
-    info = "Quality Improvement Training & Facilitation"
-    description = "Matthew Gibbons, Quality Improvement Trainer & Facilitator, Southwest Koala"
-    keywords = "quality,improvement,facilitator"
+    info = "Quality Improvement Coaching, Training, and Facilitation"
+    description = "Matthew Gibbons, Quality Improvement Coach, Trainer, and Facilitator, Southwest Koala"
+    keywords = "quality,improvement,coach,trainer,facilitator"
     avatarurl = "images/avatar.jpg"
 
     footercontent = "koalas are cooler than kangaroos"
